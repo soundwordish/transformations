@@ -1,0 +1,1502 @@
+[
+  {
+    "gen": 0,
+    "phase": "source",
+    "text": "a succession of words does not have only one meaning.",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -1.0,
+    "audio_start_ms": 0,
+    "audio_duration_ms": 3396
+  },
+  {
+    "gen": 1,
+    "phase": "decay",
+    "text": "a succlssion of words does not have only one mefning",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.984,
+    "audio_start_ms": 3596,
+    "audio_duration_ms": 3462
+  },
+  {
+    "gen": 2,
+    "phase": "decay",
+    "text": "a succlssion of words doeb not fave only one mefning",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.969,
+    "audio_start_ms": 7258,
+    "audio_duration_ms": 3674
+  },
+  {
+    "gen": 3,
+    "phase": "decay",
+    "text": "a sugclssion pf words doeb not fave only one mefning",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.953,
+    "audio_start_ms": 11132,
+    "audio_duration_ms": 4054
+  },
+  {
+    "gen": 4,
+    "phase": "decay",
+    "text": "a sugclssidn df words doeb not fave only one mefning",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.938,
+    "audio_start_ms": 15386,
+    "audio_duration_ms": 4140
+  },
+  {
+    "gen": 5,
+    "phase": "decay",
+    "text": "a sugthlssidn df words doeb not dave only one mefning",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.922,
+    "audio_start_ms": 19726,
+    "audio_duration_ms": 4118
+  },
+  {
+    "gen": 6,
+    "phase": "decay",
+    "text": "t sugthlssidn df words doeb not dave only one mefling",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.906,
+    "audio_start_ms": 24044,
+    "audio_duration_ms": 4186
+  },
+  {
+    "gen": 7,
+    "phase": "decay",
+    "text": "t sugthlssidn df wordp doeb not dage only one mefling",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.891,
+    "audio_start_ms": 28430,
+    "audio_duration_ms": 4220
+  },
+  {
+    "gen": 8,
+    "phase": "decay",
+    "text": "t sugthlssidn dt wordp doeb not daze only one mefling",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.875,
+    "audio_start_ms": 32850,
+    "audio_duration_ms": 4244
+  },
+  {
+    "gen": 9,
+    "phase": "decay",
+    "text": "t sugthlssidn dt wordp doeb not dazt odly one mefling",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.859,
+    "audio_start_ms": 37294,
+    "audio_duration_ms": 4381
+  },
+  {
+    "gen": 10,
+    "phase": "decay",
+    "text": "t sugthlssidn dt wordp doet not dazt odky one mefling",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.844,
+    "audio_start_ms": 41875,
+    "audio_duration_ms": 4472
+  },
+  {
+    "gen": 11,
+    "phase": "decay",
+    "text": "t sugthlssidn dt wordp doet not dazt odkv one meflink",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.828,
+    "audio_start_ms": 46547,
+    "audio_duration_ms": 4545
+  },
+  {
+    "gen": 12,
+    "phase": "decay",
+    "text": "t sugthlssidn di wordp doet not tazt odkv one meflink",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.812,
+    "audio_start_ms": 51292,
+    "audio_duration_ms": 4342
+  },
+  {
+    "gen": 13,
+    "phase": "decay",
+    "text": "t sugthlssidn der wordp goet not tazt odkv one meflink",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.797,
+    "audio_start_ms": 55834,
+    "audio_duration_ms": 4485
+  },
+  {
+    "gen": 14,
+    "phase": "decay",
+    "text": "ee sugthlssidn der wordp goet not tazt odkv ope meflink",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.781,
+    "audio_start_ms": 60519,
+    "audio_duration_ms": 4420
+  },
+  {
+    "gen": 15,
+    "phase": "decay",
+    "text": "ee sugthlssidn der wordz goet not tazt chdkv ope meflink",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.766,
+    "audio_start_ms": 65139,
+    "audio_duration_ms": 4928
+  },
+  {
+    "gen": 16,
+    "phase": "decay",
+    "text": "ee sugthlssidn der wordz goed not tazt chdkv ope meflink",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.75,
+    "audio_start_ms": 70267,
+    "audio_duration_ms": 4929
+  },
+  {
+    "gen": 17,
+    "phase": "decay",
+    "text": "ee sugthlssidn der wordz goed not tazt ctdkv ope meflinu",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.734,
+    "audio_start_ms": 75396,
+    "audio_duration_ms": 4871
+  },
+  {
+    "gen": 18,
+    "phase": "decay",
+    "text": "ee sugthlssidn yer wordz goed not tazt ctdkv opp meflinu",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.719,
+    "audio_start_ms": 80467,
+    "audio_duration_ms": 4742
+  },
+  {
+    "gen": 19,
+    "phase": "decay",
+    "text": "ee sugthlssidn yvr wordz goed not tazt caudkv opp meflinu",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.703,
+    "audio_start_ms": 85409,
+    "audio_duration_ms": 4465
+  },
+  {
+    "gen": 20,
+    "phase": "decay",
+    "text": "ee sugthlssidn yvt wordz goed not tazt caudkv opp meflint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.688,
+    "audio_start_ms": 90074,
+    "audio_duration_ms": 4516
+  },
+  {
+    "gen": 21,
+    "phase": "reconstruction",
+    "text": "ee sugthlssidn yvt word goed not tazt caudkv ope meflint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.672,
+    "audio_start_ms": 94790,
+    "audio_duration_ms": 4421
+  },
+  {
+    "gen": 22,
+    "phase": "reconstruction",
+    "text": "ee sugthlssidn vt word goed not tazt audkv ope meflint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.656,
+    "audio_start_ms": 99411,
+    "audio_duration_ms": 4377
+  },
+  {
+    "gen": 23,
+    "phase": "reconstruction",
+    "text": "e sughlssidn vt word goed not tazt audkv ope meflint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.641,
+    "audio_start_ms": 103988,
+    "audio_duration_ms": 4252
+  },
+  {
+    "gen": 24,
+    "phase": "reconstruction",
+    "text": "e sughlssidn vt word oed not tazt audkv ope melint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.625,
+    "audio_start_ms": 108440,
+    "audio_duration_ms": 4060
+  },
+  {
+    "gen": 25,
+    "phase": "reconstruction",
+    "text": "e sughlssidn vn word oed not tazt audkv ope mesint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.609,
+    "audio_start_ms": 112700,
+    "audio_duration_ms": 4118
+  },
+  {
+    "gen": 26,
+    "phase": "reconstruction",
+    "text": "e sughlssion vn word oed not lazt audkv ope mesint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.594,
+    "audio_start_ms": 117018,
+    "audio_duration_ms": 3949
+  },
+  {
+    "gen": 27,
+    "phase": "reconstruction",
+    "text": "e sughlssion on word oed not lazt aadkv ope mesint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.578,
+    "audio_start_ms": 121167,
+    "audio_duration_ms": 3733
+  },
+  {
+    "gen": 28,
+    "phase": "reconstruction",
+    "text": "a sughlssion on word oed not laze aadkv ope mesint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.562,
+    "audio_start_ms": 125100,
+    "audio_duration_ms": 3537
+  },
+  {
+    "gen": 29,
+    "phase": "reconstruction",
+    "text": "a sughlssion on word ed not laze aadlv ope mesint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.547,
+    "audio_start_ms": 128837,
+    "audio_duration_ms": 3464
+  },
+  {
+    "gen": 30,
+    "phase": "reconstruction",
+    "text": "a sughlssion on word ee not laze madlv ope mesint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.531,
+    "audio_start_ms": 132501,
+    "audio_duration_ms": 3448
+  },
+  {
+    "gen": 31,
+    "phase": "reconstruction",
+    "text": "a sughession on word ee not laze madly ope mesint",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.516,
+    "audio_start_ms": 136149,
+    "audio_duration_ms": 3532
+  },
+  {
+    "gen": 32,
+    "phase": "reconstruction",
+    "text": "a sughession on word be not laze madly ope mesinn",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.5,
+    "audio_start_ms": 139881,
+    "audio_duration_ms": 3500
+  },
+  {
+    "gen": 33,
+    "phase": "reconstruction",
+    "text": "a suggession on word be not laze madly ope messnn",
+    "cycle": 0,
+    "is_cycle_end": false,
+    "pan": -0.484,
+    "audio_start_ms": 143581,
+    "audio_duration_ms": 3339
+  },
+  {
+    "gen": 34,
+    "phase": "reconstruction",
+    "text": "a suggestion on word be not laze madly ope messin",
+    "cycle": 0,
+    "is_cycle_end": true,
+    "pan": -0.469,
+    "audio_start_ms": 147120,
+    "audio_duration_ms": 3415
+  },
+  {
+    "gen": 36,
+    "phase": "decay",
+    "text": "a suggestion on word be not laze mthdly ope messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.453,
+    "audio_start_ms": 150735,
+    "audio_duration_ms": 4121
+  },
+  {
+    "gen": 37,
+    "phase": "decay",
+    "text": "t suggfstion on word be not laze mthdly ope messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.438,
+    "audio_start_ms": 155056,
+    "audio_duration_ms": 4317
+  },
+  {
+    "gen": 38,
+    "phase": "decay",
+    "text": "t suggfstion on word be not lkze mthdly mpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.422,
+    "audio_start_ms": 159573,
+    "audio_duration_ms": 4794
+  },
+  {
+    "gen": 39,
+    "phase": "decay",
+    "text": "t suggfstion on word be not lkze mjhdly gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.406,
+    "audio_start_ms": 164567,
+    "audio_duration_ms": 4820
+  },
+  {
+    "gen": 40,
+    "phase": "decay",
+    "text": "t suggfstion on word be not lkde fjhdly gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.391,
+    "audio_start_ms": 169587,
+    "audio_duration_ms": 4835
+  },
+  {
+    "gen": 41,
+    "phase": "decay",
+    "text": "t fuggfstion on word be ngt lkde fjhdly gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.375,
+    "audio_start_ms": 174622,
+    "audio_duration_ms": 5049
+  },
+  {
+    "gen": 42,
+    "phase": "decay",
+    "text": "t fuggfstion on worer be ncht lkde fjhdly gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.359,
+    "audio_start_ms": 179871,
+    "audio_duration_ms": 5330
+  },
+  {
+    "gen": 43,
+    "phase": "decay",
+    "text": "t fuggfstion on woreg be ncht lkde fjhnly gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.344,
+    "audio_start_ms": 185401,
+    "audio_duration_ms": 5351
+  },
+  {
+    "gen": 44,
+    "phase": "decay",
+    "text": "t flggfstion on woreg be ncht lkde fjhnpy gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.328,
+    "audio_start_ms": 190952,
+    "audio_duration_ms": 5974
+  },
+  {
+    "gen": 45,
+    "phase": "decay",
+    "text": "g flggfstion on woreg be ncft lkde fjhnpy gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.312,
+    "audio_start_ms": 197126,
+    "audio_duration_ms": 5829
+  },
+  {
+    "gen": 46,
+    "phase": "decay",
+    "text": "t flggfstdon on woreg be ncft lkde fjhnpy gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.297,
+    "audio_start_ms": 203155,
+    "audio_duration_ms": 6084
+  },
+  {
+    "gen": 47,
+    "phase": "decay",
+    "text": "g flggfstdon oz woreg be ncft lkde fjhnpy gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.281,
+    "audio_start_ms": 209439,
+    "audio_duration_ms": 6085
+  },
+  {
+    "gen": 48,
+    "phase": "decay",
+    "text": "d flggfztdon oz woreg be ncft lkde fjhnpy gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.266,
+    "audio_start_ms": 215724,
+    "audio_duration_ms": 6074
+  },
+  {
+    "gen": 49,
+    "phase": "decay",
+    "text": "d flggfztdon oz woreg bch nkft lkde fjhnpy gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.25,
+    "audio_start_ms": 221998,
+    "audio_duration_ms": 6539
+  },
+  {
+    "gen": 50,
+    "phase": "decay",
+    "text": "l flggfztdon oz woreg bch nkft lkde fthnpy gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.234,
+    "audio_start_ms": 228737,
+    "audio_duration_ms": 6593
+  },
+  {
+    "gen": 51,
+    "phase": "decay",
+    "text": "l flggfztdon oz worvg bch nkft lkde ferhnpy gpe messit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.219,
+    "audio_start_ms": 235530,
+    "audio_duration_ms": 6085
+  },
+  {
+    "gen": 52,
+    "phase": "decay",
+    "text": "l flggfztdon oz worvg bch nkft lkde ferhnpt gpe meseeit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.203,
+    "audio_start_ms": 241815,
+    "audio_duration_ms": 6272
+  },
+  {
+    "gen": 53,
+    "phase": "decay",
+    "text": "l flggfztdot oz worvg bch nkft lkde ferhnpt gge meseeit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.188,
+    "audio_start_ms": 248287,
+    "audio_duration_ms": 6290
+  },
+  {
+    "gen": 54,
+    "phase": "decay",
+    "text": "l flggfztdog oz worvg bch nkft lkde ferhnpt gde meseeit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.172,
+    "audio_start_ms": 254777,
+    "audio_duration_ms": 6277
+  },
+  {
+    "gen": 55,
+    "phase": "decay",
+    "text": "l flggfztdog oz worvg bch nkft lkdch ferhnpt gde mesteit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.156,
+    "audio_start_ms": 261254,
+    "audio_duration_ms": 6650
+  },
+  {
+    "gen": 56,
+    "phase": "reconstruction",
+    "text": "nl flggfztdog on worvg bch nkft lkdch ferhnpt gde mesteit",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.141,
+    "audio_start_ms": 268104,
+    "audio_duration_ms": 6722
+  },
+  {
+    "gen": 57,
+    "phase": "reconstruction",
+    "text": "nl flgfztdog on worvg bch nkft lkdch ferhnpt gde mestet",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.125,
+    "audio_start_ms": 275026,
+    "audio_duration_ms": 6541
+  },
+  {
+    "gen": 58,
+    "phase": "reconstruction",
+    "text": "nl flgfztdog on worg bch nkft ladch ferhnpt gde mestet",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.109,
+    "audio_start_ms": 281767,
+    "audio_duration_ms": 5943
+  },
+  {
+    "gen": 59,
+    "phase": "reconstruction",
+    "text": "nl flgfztdog on worg bch nkft ladch ferhnpt gdb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.094,
+    "audio_start_ms": 287910,
+    "audio_duration_ms": 5984
+  },
+  {
+    "gen": 60,
+    "phase": "reconstruction",
+    "text": "nl flgfztdog on worg bch nkft ladch frhnpt geb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.078,
+    "audio_start_ms": 294094,
+    "audio_duration_ms": 6145
+  },
+  {
+    "gen": 61,
+    "phase": "reconstruction",
+    "text": "nl flgfztdog on worg bh nkft larch frhnpt geb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.062,
+    "audio_start_ms": 300439,
+    "audio_duration_ms": 5919
+  },
+  {
+    "gen": 62,
+    "phase": "reconstruction",
+    "text": "nl flgfztdog on worg bh nft larch frhnpt deb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.047,
+    "audio_start_ms": 306558,
+    "audio_duration_ms": 5680
+  },
+  {
+    "gen": 63,
+    "phase": "reconstruction",
+    "text": "nl flfztdog on worg be nft larch frhnpt deb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.031,
+    "audio_start_ms": 312438,
+    "audio_duration_ms": 5230
+  },
+  {
+    "gen": 64,
+    "phase": "reconstruction",
+    "text": "nl flfztdng on worg be not larch frhnpt deb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": -0.016,
+    "audio_start_ms": 317868,
+    "audio_duration_ms": 5202
+  },
+  {
+    "gen": 65,
+    "phase": "reconstruction",
+    "text": "nl flfztdng on wort be not larch fhnpt deb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": 0.0,
+    "audio_start_ms": 323270,
+    "audio_duration_ms": 5075
+  },
+  {
+    "gen": 66,
+    "phase": "reconstruction",
+    "text": "no flfztdng on wort be not larch fhrpt deb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": 0.016,
+    "audio_start_ms": 328545,
+    "audio_duration_ms": 4925
+  },
+  {
+    "gen": 67,
+    "phase": "reconstruction",
+    "text": "no flfzting on wort be not larch firpt deb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": 0.031,
+    "audio_start_ms": 333670,
+    "audio_duration_ms": 4085
+  },
+  {
+    "gen": 68,
+    "phase": "reconstruction",
+    "text": "no flftting on wort be not larch first deb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": 0.047,
+    "audio_start_ms": 337955,
+    "audio_duration_ms": 3996
+  },
+  {
+    "gen": 69,
+    "phase": "reconstruction",
+    "text": "no flitting on wort be not larch first deb mester",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": 0.062,
+    "audio_start_ms": 342151,
+    "audio_duration_ms": 3505
+  },
+  {
+    "gen": 70,
+    "phase": "cohesion",
+    "text": "No larch on wort be not flitting first deb mester.",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": 0.078,
+    "audio_start_ms": 345856,
+    "audio_duration_ms": 3495
+  },
+  {
+    "gen": 71,
+    "phase": "cohesion",
+    "text": "No larch on flitting be not wort first deb mester.",
+    "cycle": 1,
+    "is_cycle_end": false,
+    "pan": 0.094,
+    "audio_start_ms": 349551,
+    "audio_duration_ms": 3521
+  },
+  {
+    "gen": 72,
+    "phase": "cohesion",
+    "text": "No flitting on larch be not wort first deb mester.",
+    "cycle": 1,
+    "is_cycle_end": true,
+    "pan": 0.109,
+    "audio_start_ms": 353272,
+    "audio_duration_ms": 3506
+  },
+  {
+    "gen": 74,
+    "phase": "decay",
+    "text": "No flitting on larch be dot wort fzrst deb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.125,
+    "audio_start_ms": 356978,
+    "audio_duration_ms": 4018
+  },
+  {
+    "gen": 75,
+    "phase": "decay",
+    "text": "No fgitting on larch be dot wort fzrst dgb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.141,
+    "audio_start_ms": 361196,
+    "audio_duration_ms": 4385
+  },
+  {
+    "gen": 76,
+    "phase": "decay",
+    "text": "Ng fgitting on larch ge dot wort fzrst dgb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.156,
+    "audio_start_ms": 365781,
+    "audio_duration_ms": 4565
+  },
+  {
+    "gen": 77,
+    "phase": "decay",
+    "text": "Ng fgitting on larch ge dot wgrt fzrsg dgb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.172,
+    "audio_start_ms": 370546,
+    "audio_duration_ms": 5134
+  },
+  {
+    "gen": 78,
+    "phase": "decay",
+    "text": "Ng fgitting on larch gch dot wgrt fzrsg dgb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.188,
+    "audio_start_ms": 375880,
+    "audio_duration_ms": 5522
+  },
+  {
+    "gen": 79,
+    "phase": "decay",
+    "text": "Ng fgitting on larch gch dot lgrt fgrsg dgb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.203,
+    "audio_start_ms": 381602,
+    "audio_duration_ms": 5265
+  },
+  {
+    "gen": 80,
+    "phase": "decay",
+    "text": "tg fgitting on larch gch dot lerrt fgrsg dgb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.219,
+    "audio_start_ms": 387067,
+    "audio_duration_ms": 4926
+  },
+  {
+    "gen": 81,
+    "phase": "decay",
+    "text": "tg fgittkng on larch gch dot lerrt fgrst dgb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.234,
+    "audio_start_ms": 392193,
+    "audio_duration_ms": 4975
+  },
+  {
+    "gen": 82,
+    "phase": "decay",
+    "text": "tg fgittkng on larch gch dot lergt fgrst drb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.25,
+    "audio_start_ms": 397368,
+    "audio_duration_ms": 5124
+  },
+  {
+    "gen": 83,
+    "phase": "decay",
+    "text": "tg fgittkng on lavch gch dot lergt fgrtt drb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.266,
+    "audio_start_ms": 402692,
+    "audio_duration_ms": 5235
+  },
+  {
+    "gen": 84,
+    "phase": "decay",
+    "text": "tg fgittkng on lavch jch dot lergt fgrert drb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.281,
+    "audio_start_ms": 408127,
+    "audio_duration_ms": 4899
+  },
+  {
+    "gen": 85,
+    "phase": "decay",
+    "text": "tg fgittkng on lavch jch got lerpt fgrert drb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.297,
+    "audio_start_ms": 413226,
+    "audio_duration_ms": 4848
+  },
+  {
+    "gen": 86,
+    "phase": "decay",
+    "text": "tg faiittkng on lavch jch got lerpt fgrejt drb mester.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.312,
+    "audio_start_ms": 418274,
+    "audio_duration_ms": 4930
+  },
+  {
+    "gen": 87,
+    "phase": "decay",
+    "text": "tg faiittkner on lavch jch got lerpt fgrejt drb dester",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.328,
+    "audio_start_ms": 423404,
+    "audio_duration_ms": 5039
+  },
+  {
+    "gen": 88,
+    "phase": "decay",
+    "text": "tg faiittkner dn lavch jch got lerpt fgrejt drt dester",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.344,
+    "audio_start_ms": 428643,
+    "audio_duration_ms": 5170
+  },
+  {
+    "gen": 89,
+    "phase": "decay",
+    "text": "tg faiittkner dn lavch dch got lerdt fgrejt drt dester",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.359,
+    "audio_start_ms": 434013,
+    "audio_duration_ms": 5030
+  },
+  {
+    "gen": 90,
+    "phase": "decay",
+    "text": "tg faiittkner dn lavcer dch got lerdt fgrejt drt desteer",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.375,
+    "audio_start_ms": 439243,
+    "audio_duration_ms": 5095
+  },
+  {
+    "gen": 91,
+    "phase": "decay",
+    "text": "tg faiittkner dn lavcer dch got berdt fgrejt drt desteel",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.391,
+    "audio_start_ms": 444538,
+    "audio_duration_ms": 5083
+  },
+  {
+    "gen": 92,
+    "phase": "decay",
+    "text": "tg faiittkner dn lavcer dch glt berdt kgrejt drt desteel",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.406,
+    "audio_start_ms": 449821,
+    "audio_duration_ms": 5420
+  },
+  {
+    "gen": 93,
+    "phase": "decay",
+    "text": "tg faibttkner ern lavcer dch glt berdt kgrejt drt desteel",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.422,
+    "audio_start_ms": 455441,
+    "audio_duration_ms": 5314
+  },
+  {
+    "gen": 94,
+    "phase": "reconstruction",
+    "text": "tg faibttkner ern lavcer dch nlt berdt grejt drt desteel",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.438,
+    "audio_start_ms": 460955,
+    "audio_duration_ms": 4983
+  },
+  {
+    "gen": 95,
+    "phase": "reconstruction",
+    "text": "tg faibttkner rn lavcer dch nlt berdt grejt drt desterl",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.453,
+    "audio_start_ms": 466138,
+    "audio_duration_ms": 5114
+  },
+  {
+    "gen": 96,
+    "phase": "reconstruction",
+    "text": "tg faibttkner rn lacer dch not berdt grejt drt desterl",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.469,
+    "audio_start_ms": 471452,
+    "audio_duration_ms": 4823
+  },
+  {
+    "gen": 97,
+    "phase": "reconstruction",
+    "text": "tg faibttkner rn lager dcs not berdt grejt drt desterl",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.484,
+    "audio_start_ms": 476475,
+    "audio_duration_ms": 4728
+  },
+  {
+    "gen": 98,
+    "phase": "reconstruction",
+    "text": "tg faibttkner rf lager dcs not beret grejt drt desterl",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.5,
+    "audio_start_ms": 481403,
+    "audio_duration_ms": 4748
+  },
+  {
+    "gen": 99,
+    "phase": "reconstruction",
+    "text": "g faibttkner rf lager dcs not beret grejt drt destert",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.516,
+    "audio_start_ms": 486351,
+    "audio_duration_ms": 4541
+  },
+  {
+    "gen": 100,
+    "phase": "reconstruction",
+    "text": "g faibttkner of lager wcs not beret grejt drt destert",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.531,
+    "audio_start_ms": 491092,
+    "audio_duration_ms": 4532
+  },
+  {
+    "gen": 101,
+    "phase": "reconstruction",
+    "text": "g faibttkner of lager wcs not beret grejt dot dessert",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.547,
+    "audio_start_ms": 495824,
+    "audio_duration_ms": 4312
+  },
+  {
+    "gen": 102,
+    "phase": "reconstruction",
+    "text": "g faibttkner of lager was not beret great dot dessert",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.562,
+    "audio_start_ms": 500336,
+    "audio_duration_ms": 3609
+  },
+  {
+    "gen": 103,
+    "phase": "reconstruction",
+    "text": "a fabttkner of lager was not beret great dot dessert",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.578,
+    "audio_start_ms": 504145,
+    "audio_duration_ms": 3516
+  },
+  {
+    "gen": 104,
+    "phase": "reconstruction",
+    "text": "a fattkner of lager was not beret great dot dessert",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.594,
+    "audio_start_ms": 507861,
+    "audio_duration_ms": 3407
+  },
+  {
+    "gen": 105,
+    "phase": "reconstruction",
+    "text": "a fattener of lager was not beret great dot dessert",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.609,
+    "audio_start_ms": 511468,
+    "audio_duration_ms": 3404
+  },
+  {
+    "gen": 106,
+    "phase": "cohesion",
+    "text": "A fattener of dessert was not beret great dot lager.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.625,
+    "audio_start_ms": 515072,
+    "audio_duration_ms": 3431
+  },
+  {
+    "gen": 107,
+    "phase": "cohesion",
+    "text": "A fattener of beret was not dessert great dot lager.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.641,
+    "audio_start_ms": 518703,
+    "audio_duration_ms": 3436
+  },
+  {
+    "gen": 108,
+    "phase": "cohesion",
+    "text": "A lager of beret was not dessert great dot fattener.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.656,
+    "audio_start_ms": 522339,
+    "audio_duration_ms": 3432
+  },
+  {
+    "gen": 109,
+    "phase": "cohesion",
+    "text": "A dessert of beret was not lager great dot fattener.",
+    "cycle": 2,
+    "is_cycle_end": false,
+    "pan": 0.672,
+    "audio_start_ms": 525971,
+    "audio_duration_ms": 3407
+  },
+  {
+    "gen": 110,
+    "phase": "cohesion",
+    "text": "A dessert of lager was not beret great dot fattener.",
+    "cycle": 2,
+    "is_cycle_end": true,
+    "pan": 0.688,
+    "audio_start_ms": 529578,
+    "audio_duration_ms": 3401
+  },
+  {
+    "gen": 112,
+    "phase": "decay",
+    "text": "A dessett of lager was not beret great dot fattchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.703,
+    "audio_start_ms": 533179,
+    "audio_duration_ms": 3524
+  },
+  {
+    "gen": 113,
+    "phase": "decay",
+    "text": "t dessett of lagtr was not beret great dot fattchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.719,
+    "audio_start_ms": 536903,
+    "audio_duration_ms": 3783
+  },
+  {
+    "gen": 114,
+    "phase": "decay",
+    "text": "t dessett of lagtr was not beret grjat dot fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.734,
+    "audio_start_ms": 540886,
+    "audio_duration_ms": 4209
+  },
+  {
+    "gen": 115,
+    "phase": "decay",
+    "text": "t dessett of lagter was not beret grjat got fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.75,
+    "audio_start_ms": 545295,
+    "audio_duration_ms": 4130
+  },
+  {
+    "gen": 116,
+    "phase": "decay",
+    "text": "d dessett of lagter was not beret grjat gov fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.766,
+    "audio_start_ms": 549625,
+    "audio_duration_ms": 4139
+  },
+  {
+    "gen": 117,
+    "phase": "decay",
+    "text": "d dessett tf lagted was not beret grjat gov fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.781,
+    "audio_start_ms": 553964,
+    "audio_duration_ms": 4445
+  },
+  {
+    "gen": 118,
+    "phase": "decay",
+    "text": "d dessett tf lavted was naut beret grjat gov fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.797,
+    "audio_start_ms": 558609,
+    "audio_duration_ms": 4497
+  },
+  {
+    "gen": 119,
+    "phase": "decay",
+    "text": "d dessett tf lavtfd was naut bertt grjat gov fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.812,
+    "audio_start_ms": 563306,
+    "audio_duration_ms": 4548
+  },
+  {
+    "gen": 120,
+    "phase": "decay",
+    "text": "d dessett tf lavtfd was nerut berkt grjat gov fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.828,
+    "audio_start_ms": 568054,
+    "audio_duration_ms": 4700
+  },
+  {
+    "gen": 121,
+    "phase": "decay",
+    "text": "d dessett auf lavtfd was nerut berkt grdat gov fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.844,
+    "audio_start_ms": 572954,
+    "audio_duration_ms": 4521
+  },
+  {
+    "gen": 122,
+    "phase": "decay",
+    "text": "d desgett auf lavtfd eras nerut berkt grdat gov fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.859,
+    "audio_start_ms": 577675,
+    "audio_duration_ms": 4602
+  },
+  {
+    "gen": 123,
+    "phase": "decay",
+    "text": "d desgett auf lavtfd eras nerut berkp grdat god fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.875,
+    "audio_start_ms": 582477,
+    "audio_duration_ms": 4659
+  },
+  {
+    "gen": 124,
+    "phase": "decay",
+    "text": "d desgett auf lavtfd eras negut berkp krdat god fatkchner",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.891,
+    "audio_start_ms": 587336,
+    "audio_duration_ms": 4737
+  },
+  {
+    "gen": 125,
+    "phase": "decay",
+    "text": "d desgett auf laverfd eras negut berkp krdat god fatkchzer",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.906,
+    "audio_start_ms": 592273,
+    "audio_duration_ms": 4713
+  },
+  {
+    "gen": 126,
+    "phase": "decay",
+    "text": "d desgett auf lavergd eras negut berkp krdat god fatkchzer",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.922,
+    "audio_start_ms": 597186,
+    "audio_duration_ms": 4730
+  },
+  {
+    "gen": 127,
+    "phase": "decay",
+    "text": "d desgett auf lavergd erath negut beaukp krdat god fatkchzer",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.938,
+    "audio_start_ms": 602116,
+    "audio_duration_ms": 4752
+  },
+  {
+    "gen": 128,
+    "phase": "decay",
+    "text": "d desgett tuf lavergd erath negut beaukp kgdat god fatkchzer",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.953,
+    "audio_start_ms": 607068,
+    "audio_duration_ms": 4845
+  },
+  {
+    "gen": 129,
+    "phase": "decay",
+    "text": "d desgett tdf laverdd erath negut beaukp kgdat god fatkchzer",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.969,
+    "audio_start_ms": 612113,
+    "audio_duration_ms": 4970
+  },
+  {
+    "gen": 130,
+    "phase": "decay",
+    "text": "d desgett tdf laverdd edath negut beaukp kgdat god fatkghzer",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.984,
+    "audio_start_ms": 617283,
+    "audio_duration_ms": 4933
+  },
+  {
+    "gen": 131,
+    "phase": "decay",
+    "text": "d desgett tdf laverdd edafh negut beaukp kgdat god fatkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 1.0,
+    "audio_start_ms": 622416,
+    "audio_duration_ms": 4885
+  },
+  {
+    "gen": 132,
+    "phase": "reconstruction",
+    "text": "d desgett df laverdd edafh negut beaukp kdat god fatkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.905,
+    "audio_start_ms": 627501,
+    "audio_duration_ms": 4571
+  },
+  {
+    "gen": 133,
+    "phase": "reconstruction",
+    "text": "d desgett of laverdd edafh negut beaukp kdat goo fatkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.81,
+    "audio_start_ms": 632272,
+    "audio_duration_ms": 4220
+  },
+  {
+    "gen": 134,
+    "phase": "reconstruction",
+    "text": "a desgett of laverdd edafh negut beautp kdat goo fatkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.714,
+    "audio_start_ms": 636692,
+    "audio_duration_ms": 4115
+  },
+  {
+    "gen": 135,
+    "phase": "reconstruction",
+    "text": "a desgent of laverdd edafh negut beautp khat goo fatkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.619,
+    "audio_start_ms": 641007,
+    "audio_duration_ms": 3982
+  },
+  {
+    "gen": 136,
+    "phase": "reconstruction",
+    "text": "a desgent of laverdd edafh ngut beauty khat goo fatkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.524,
+    "audio_start_ms": 645189,
+    "audio_duration_ms": 3810
+  },
+  {
+    "gen": 137,
+    "phase": "reconstruction",
+    "text": "a desgent of laverdd dafh nut beauty khat goo fatkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.429,
+    "audio_start_ms": 649199,
+    "audio_duration_ms": 3676
+  },
+  {
+    "gen": 138,
+    "phase": "reconstruction",
+    "text": "a desgent of laverdd dafh not beauty khat goo ftkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.333,
+    "audio_start_ms": 653075,
+    "audio_duration_ms": 4341
+  },
+  {
+    "gen": 139,
+    "phase": "reconstruction",
+    "text": "a desgent of lavvrdd dafh not beauty khat goo fkghter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.238,
+    "audio_start_ms": 657616,
+    "audio_duration_ms": 4084
+  },
+  {
+    "gen": 140,
+    "phase": "reconstruction",
+    "text": "a descent of lavvrdd dafh not beauty khat goo fighter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.143,
+    "audio_start_ms": 661900,
+    "audio_duration_ms": 3399
+  },
+  {
+    "gen": 141,
+    "phase": "reconstruction",
+    "text": "a descent of savvrdd afh not beauty khat goo fighter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": 0.048,
+    "audio_start_ms": 665499,
+    "audio_duration_ms": 3397
+  },
+  {
+    "gen": 142,
+    "phase": "reconstruction",
+    "text": "a descent of savvrrd aah not beauty khat goo fighter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.048,
+    "audio_start_ms": 669096,
+    "audio_duration_ms": 3319
+  },
+  {
+    "gen": 143,
+    "phase": "reconstruction",
+    "text": "a descent of savvrry wah not beauty khat goo fighter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.143,
+    "audio_start_ms": 672615,
+    "audio_duration_ms": 3432
+  },
+  {
+    "gen": 144,
+    "phase": "reconstruction",
+    "text": "a descent of saavrry was not beauty khat goo fighter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.238,
+    "audio_start_ms": 676247,
+    "audio_duration_ms": 3403
+  },
+  {
+    "gen": 145,
+    "phase": "reconstruction",
+    "text": "a descent of saavery was not beauty khat goo fighter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.333,
+    "audio_start_ms": 679850,
+    "audio_duration_ms": 3427
+  },
+  {
+    "gen": 146,
+    "phase": "reconstruction",
+    "text": "a descent of slavery was not beauty khat goo fighter",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.429,
+    "audio_start_ms": 683477,
+    "audio_duration_ms": 3465
+  },
+  {
+    "gen": 147,
+    "phase": "cohesion",
+    "text": "A descent of beauty was not slavery khat goo fighter.",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.524,
+    "audio_start_ms": 687142,
+    "audio_duration_ms": 3470
+  },
+  {
+    "gen": 148,
+    "phase": "cohesion",
+    "text": "A descent of beauty was not slavery khat fighter goo.",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.619,
+    "audio_start_ms": 690812,
+    "audio_duration_ms": 3547
+  },
+  {
+    "gen": 149,
+    "phase": "cohesion",
+    "text": "A beauty of descent was not slavery khat fighter goo.",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.714,
+    "audio_start_ms": 694559,
+    "audio_duration_ms": 3554
+  },
+  {
+    "gen": 150,
+    "phase": "cohesion",
+    "text": "A fighter of descent was not slavery khat beauty goo.",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.81,
+    "audio_start_ms": 698313,
+    "audio_duration_ms": 3565
+  },
+  {
+    "gen": 151,
+    "phase": "cohesion",
+    "text": "A descent of fighter was not slavery khat beauty goo.",
+    "cycle": 3,
+    "is_cycle_end": false,
+    "pan": -0.905,
+    "audio_start_ms": 702078,
+    "audio_duration_ms": 3538
+  },
+  {
+    "gen": 152,
+    "phase": "cohesion",
+    "text": "A descent of fighter was not slavery khat goo beauty.",
+    "cycle": 3,
+    "is_cycle_end": true,
+    "pan": -1.0,
+    "audio_start_ms": 705816,
+    "audio_duration_ms": 3465
+  }
+]
